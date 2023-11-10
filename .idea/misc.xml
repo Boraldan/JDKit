@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Les1/pom.xml" />
+        <option value="$PROJECT_DIR$/Les1XO/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/Les1_EM/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled2/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled3/pom.xml" />
+        <option value="$PROJECT_DIR$/Semi1_HW_EM/pom.xml" />
+        <option value="$PROJECT_DIR$/Temp/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Les1/pom.xml" />
+        <option value="$PROJECT_DIR$/Les1XO/pom.xml" />
+        <option value="$PROJECT_DIR$/Temp/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled2/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled3/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

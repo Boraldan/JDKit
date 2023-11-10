@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/untitled/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Les1_EM" />
+        <module name="Semi1_HW_EM" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ear" target="1.5" />
+      <module name="ejbs" target="1.7" />
+      <module name="Les1" target="1.7" />
+      <module name="Les1XO" target="1.7" />
+      <module name="logging" target="1.7" />
+      <module name="primary-source" target="1.7" />
+      <module name="project" target="1.5" />
+      <module name="projects" target="1.5" />
+      <module name="servlet" target="1.7" />
+      <module name="servlets" target="1.5" />
+      <module name="Temp" target="1.7" />
+      <module name="untitled" target="1.7" />
+      <module name="untitled2" target="1.7" />
+      <module name="untitled3" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

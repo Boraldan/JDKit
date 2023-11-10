@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaDevKit.iml" filepath="$PROJECT_DIR$/.idea/JavaDevKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Les1_XO/Les1_XO.iml" filepath="$PROJECT_DIR$/Les1_XO/Les1_XO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Les2_Aktibaev/Les2_Aktibaev.iml" filepath="$PROJECT_DIR$/Les2_Aktibaev/Les2_Aktibaev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semi1_HW_Aktibaev/Semi1_HW_Aktibaev.iml" filepath="$PROJECT_DIR$/Semi1_HW_Aktibaev/Semi1_HW_Aktibaev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semi2_DZ2/Semi2_DZ2.iml" filepath="$PROJECT_DIR$/Semi2_DZ2/Semi2_DZ2.iml" />
+    </modules>
+  </component>
+</project>
