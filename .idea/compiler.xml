@@ -10,6 +10,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Les3_Generic" />
+        <module name="Semi3_DZ3" />
         <module name="Les1_EM" />
         <module name="Semi1_HW_EM" />
       </profile>
