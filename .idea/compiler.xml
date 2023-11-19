@@ -12,6 +12,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Les3_Generic" />
         <module name="Semi3_DZ3" />
+        <module name="Semi4_DZ4" />
         <module name="Les1_EM" />
         <module name="Semi1_HW_EM" />
       </profile>

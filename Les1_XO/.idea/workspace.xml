@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13ec0ece-eec8-47eb-8428-87de4c39c282" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/Semi2_HW_Aktibaev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/src/server/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/src/server/client/domain/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/src/server/client/ui/ClientGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/src/server/client/ui/ClientView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/src/server/server/domain/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/src/server/server/repository/FileStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/src/server/server/repository/MyRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/src/server/server/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/src/server/server/repository/history.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/src/server/server/ui/ServerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semi2_HW_Aktibaev/src/server/server/ui/ServerWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temp/Temp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temp/src/MyIter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Les1_XO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi3_DZ3/src/main/java/boraldan/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Semi3_DZ3/src/main/java/boraldan/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi3_DZ3/src/main/java/boraldan/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Semi3_DZ3/src/main/java/boraldan/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi3_DZ3/target/classes/boraldan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi3_DZ3/target/classes/boraldan/N.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi3_DZ3/target/classes/boraldan/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Semi3_DZ3/target/classes/boraldan/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi3_DZ3/target/classes/boraldan/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Semi3_DZ3/target/classes/boraldan/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi3_DZ3/target/classes/boraldan/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Semi3_DZ3/target/classes/boraldan/Task3.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2YInS3NS4pnAX9bak4IRRaDKaEy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/_Alex/_IT/GB/GB_learning/0_myRepo/JavaDevKit",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13ec0ece-eec8-47eb-8428-87de4c39c282" name="Changes" comment="" />
+      <created>1700221958158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700221958158</updated>
+      <workItem from="1700221959152" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

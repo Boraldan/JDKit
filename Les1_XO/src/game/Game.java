@@ -1,10 +1,10 @@
 package game;
 
-import lombok.Data;
+
 
 import java.util.Random;
 
-@Data
+
 public class Game {
 
     private static final Random random = new Random();
@@ -166,4 +166,43 @@ public class Game {
     }
 
 
+    public boolean isGameOver() {
+        return isGameOver;
+    }
+
+    public void setGameOver(boolean gameOver) {
+        isGameOver = gameOver;
+    }
+
+    public boolean isInitialized() {
+        return isInitialized;
+    }
+
+    public void setInitialized(boolean initialized) {
+        isInitialized = initialized;
+    }
+
+    public char[][] getCharArr() {
+        return charArr;
+    }
+
+    public void setCharArr(char[][] charArr) {
+        this.charArr = charArr;
+    }
+
+    public int getRow() {
+        return row;
+    }
+
+    public void setRow(int row) {
+        this.row = row;
+    }
+
+    public int getCol() {
+        return col;
+    }
+
+    public void setCol(int col) {
+        this.col = col;
+    }
 }
