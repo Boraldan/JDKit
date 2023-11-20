@@ -3,13 +3,10 @@ package boraldan;
 import java.util.List;
 
 public class Mudra extends Thread {
-
     private int numMudra;
     private List<Fork> forks;
     private Mudra nextMudra;
-
     private int f1, f2;
-
 
     public Mudra(List<Fork> forks, int f1, int f2, int numMudra) {
         this.numMudra = numMudra;
@@ -29,7 +26,6 @@ public class Mudra extends Thread {
                     } catch (InterruptedException e) {
                         throw new RuntimeException(e);
                     }
-
                 }
             }
 
@@ -41,8 +37,8 @@ public class Mudra extends Thread {
                 nextMudra.wakeupMudra();
             }
 
-            System.out.printf("Mудрец %d заснул\n", numMudra);
-            synchronized (this){
+            System.out.printf("Mудрец %d думает\n", numMudra);
+            synchronized (this) {
                 try {
                     wait();
                 } catch (InterruptedException e) {
@@ -50,13 +46,12 @@ public class Mudra extends Thread {
                 }
             }
         }
-
-        System.out.printf("Mудрец %d закончил\n", numMudra);
+        System.out.printf("Mудрец %d заснул\n", numMudra);
         nextMudra.wakeupMudra();
     }
 
-    public  void wakeupMudra() {
-        synchronized (this){
+    public void wakeupMudra() {
+        synchronized (this) {
             notify();
         }
     }
